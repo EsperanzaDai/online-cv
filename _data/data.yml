@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Yanwan Dai
-    tagline: Statistics, Oncology, Plant-Pathogen Interaction
+    tagline: 
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -38,20 +38,20 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      BioStatistician
+      Statistics, Oncology, Plant-Pathogen Interaction
       
 education:
     - degree: Master in Statistics
       university: Rice University
-      time: 2018 - 2020
+      time: 09/2018 - 05/2020
 
     - degree: Ph.D. in BioSciences
       university: Rice University
-      time: 2014 - 2019
+      time: 09/2014 - 07/2019
 
 experiences:
     - role: Volunteer Research Assistant
-      time: 2019 - Present
+      time: 06/2019 - Present
       company: Baylor College of Medicine, Houston, TX
       details: | 
           Transposable Element Expression Pattern Analysis
@@ -60,7 +60,7 @@ experiences:
           - Using t-SNE and PCA methods to visualize potential transposable element differential expressions
 
     - role: Research Assistant 
-      time: 2018 - 2019
+      time: 06/2018 - 06/2019
       company: Rice University, Houston, TX
       details: |
         Omics Data Analysis
@@ -69,7 +69,7 @@ experiences:
           - Revealed functional genes in plant defense pathways with Gene Set Enrichment Analysis 
 
     - role: Course Project 
-      time: 2018
+      time: 02/2018 - 04/2018
       company: Rice University
       details: |
         Phase I Clinical Trial Design Test
@@ -77,7 +77,7 @@ experiences:
           - Tested the accuracy and safety of Bayesian Optimal Interval Design with simulated patient data
     
     - role: Course Project 
-      time: 2019 
+      time: 02/2019 - 04/2019
       company: Rice University
       details: |
         Project on American Gun Shooting Cases
