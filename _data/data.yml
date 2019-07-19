@@ -7,193 +7,123 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Yanwan Dai
+    tagline: Statistics, Oncology, Plant-Pathogen Interaction
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+    email: ricedaiyanwan@gmail.com
+    phone: 832 925 0519
+    
+    linkedin: Yanwan Dai
+    github: EsperanzaDai
 
     languages:
+      - idiom: Chinese
+        level: Fluent
+
       - idiom: English
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
-
     interests:
-      - item: Climbing
-        link:
-
-      - item: Snowboarding
-        link:
-
       - item: Cooking
         link:
 
-career-profile:
-    title: Career Profile
-    summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
+      - item: Gardening 
+        link:
 
-      Second paragraph if required.
+      - item: Cat Lover
+        link:
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Master in Statistics
+      university: Rice University
+      time: 09/2018 - 05/2020
+
+    - degree: Ph.D. in BioSciences
+      university: Rice University
+      time: 09/2014 - 07/2019
+
+EXPERIENCES:
+    title: Data Projects
+    - role: Volunteer Research Assistant
+      time: 06/2019 - Present
+      company: Baylor College of Medicine, Houston, TX
+      details: | 
+          Transposable Element Expression Pattern Analysis
+
+          - Performing normalization and batch corrections on quantified transposable element data 
+          - Using t-SNE and PCA methods to visualize potential transposable element differential expressions
+
+    - role: Research Assistant 
+      time: 06/2018 - 06/2019
+      company: Rice University, Houston, TX
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        Omics Data Analysis
 
-          - Bullet point
-          - Bullet point
+          - Performed Hierarchical Cluster Analysis to reveal differential gene expressions among plant tissues 
+          - Revealed functional genes in plant defense pathways with Gene Set Enrichment Analysis 
 
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - role: Course Project 
+      time: 02/2018 - 04/2018
+      company: Rice University
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        Phase I Clinical Trial Design Test
 
-          - Bullet point
-          - Bullet point
-
-experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+          - Tested the accuracy and safety of Bayesian Optimal Interval Design with simulated patient data
+    
+    - role: Course Project 
+      time: 02/2019 - 04/2019
+      company: Rice University
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        Project on American Gun Shooting Cases
 
-          - Bullet point
-          - Bullet point
-
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
-
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+          - Trimmed and analyzed American gun shooting data in the past decade with SQL statements
+          - Visualized gun shooting distributions with different plots using SAS, including the heat map  
 
 projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-
+    title: Oncology Projects
+    
     assignments:
-      - title: Velocity
+      - title: Nanovesicles and their Potentials in Cancer Treatments, MD Anderson Cancer Center
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "Managed mammalian cell culture and the cell uptake of nanovesicles; Radioactive-labeled and tracked the nanovesicles in mice; Collaborated with multiple researchers from different fields"
 
-      - title: DevStudio
+      - title: Analysis of Anti-Cancer Component Accumulations in Plants, Rice University
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "Participated in rat gavage and colon tumor collections; Studied circadian clock and its regulation on anti-cancer component accumulations; Collaborated with Dr. Roderick H. Dashwood at Texas Medical Center"
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
     title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
 
     papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: Fungal Resistance of _Arabidopsis thaliana_ Rosette Cores
+        authors: First Author
+        conference: "Planta, 2019, Under Review"
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: Characterization of Methods to Isolate Plant Exosomes and Whole-leaf Vesicles
+        authors: Fifth Author
+        conference: "The Journal of Extracellular Vesicles, 2019, Under Review"
 
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: CLCuMuB βC1 Subverts Ubiquitination by Interacting with NbSKP1s to Enhance Geminivirus Infection in _Nicotiana benthamiana_
+        authors: Fouth Author
+        conference: "PLOS Pathogens, 2016"
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Skills 
 
     toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: R 
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Python
+        level: 80%
 
-      - name: Sketch & Photoshop
+      - name: SAS
+        level: 75%
+
+      - name: SQL
         level: 60%
 
 footer: >
