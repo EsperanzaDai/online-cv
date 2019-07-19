@@ -102,7 +102,7 @@ publications:
     title: Publications
 
     papers:
-      - title: "Fungal Resistance of <em>Arabidopsis thaliana</em> Rosette Cores"
+      - title: Fungal Resistance of <em>Arabidopsis thaliana</em> Rosette Cores
         authors: First Author
         conference: "Planta, 2019, Under Review"
 
@@ -110,7 +110,7 @@ publications:
         authors: Fifth Author
         conference: "The Journal of Extracellular Vesicles, 2019, Under Review"
 
-      - title: "CLCuMuB βC1 Subverts Ubiquitination by Interacting with NbSKP1s to Enhance Geminivirus Infection in Nicotiana benthamiana"
+      - title: CLCuMuB βC1 Subverts Ubiquitination by Interacting with NbSKP1s to Enhance Geminivirus Infection in <em>Nicotiana benthamiana</em>
         authors: Fouth Author
         conference: "PLOS Pathogens, 2016"
 
