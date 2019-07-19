@@ -43,15 +43,15 @@ career-profile:
 education:
     - degree: Master in Statistics
       university: Rice University
-      time: 09/2018 - 05/2020
+      time: 2018 - 2020
 
     - degree: Ph.D. in BioSciences
       university: Rice University
-      time: 09/2014 - 07/2019
+      time: 2014 - 2019
 
 experiences:
     - role: Volunteer Research Assistant
-      time: 06/2019 - Present
+      time: 2019 - Present
       company: Baylor College of Medicine, Houston, TX
       details: | 
           Transposable Element Expression Pattern Analysis
@@ -60,7 +60,7 @@ experiences:
           - Using t-SNE and PCA methods to visualize potential transposable element differential expressions
 
     - role: Research Assistant 
-      time: 06/2018 - 06/2019
+      time: 2018 - 2019
       company: Rice University, Houston, TX
       details: |
         Omics Data Analysis
@@ -69,7 +69,7 @@ experiences:
           - Revealed functional genes in plant defense pathways with Gene Set Enrichment Analysis 
 
     - role: Course Project 
-      time: 02/2018 - 04/2018
+      time: 2018
       company: Rice University
       details: |
         Phase I Clinical Trial Design Test
@@ -77,7 +77,7 @@ experiences:
           - Tested the accuracy and safety of Bayesian Optimal Interval Design with simulated patient data
     
     - role: Course Project 
-      time: 02/2019 - 04/2019
+      time: 2019 
       company: Rice University
       details: |
         Project on American Gun Shooting Cases
@@ -102,15 +102,15 @@ publications:
     title: Publications
 
     papers:
-      - title: Fungal Resistance of Arabidopsis thaliana Rosette Cores
+      - title: "Fungal Resistance of Arabidopsis thaliana Rosette Cores"
         authors: First Author
-        conference: Planta, 2019, Under Review
+        conference: "Planta, 2019, Under Review"
 
       - title: "Characterization of Methods to Isolate Plant Exosomes and Whole-leaf Vesicles"
         authors: Fifth Author
         conference: "The Journal of Extracellular Vesicles, 2019, Under Review"
 
-      - title: CLCuMuB βC1 Subverts Ubiquitination by Interacting with NbSKP1s to Enhance Geminivirus Infection in _Nicotiana benthamiana_
+      - title: "CLCuMuB βC1 Subverts Ubiquitination by Interacting with NbSKP1s to Enhance Geminivirus Infection in Nicotiana benthamiana"
         authors: Fouth Author
         conference: "PLOS Pathogens, 2016"
 
