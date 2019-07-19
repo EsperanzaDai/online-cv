@@ -35,6 +35,11 @@ sidebar:
       - item: Cat Lover
         link:
 
+career-profile:
+    title: Career Profile
+    summary: |
+      BioStatistician
+      
 education:
     - degree: Master in Statistics
       university: Rice University
@@ -97,11 +102,11 @@ publications:
     title: Publications
 
     papers:
-      - title: Fungal Resistance of _Arabidopsis thaliana_ Rosette Cores
+      - title: Fungal Resistance of Arabidopsis thaliana Rosette Cores
         authors: First Author
-        conference: "Planta, 2019, Under Review"
+        conference: Planta, 2019, Under Review
 
-      - title: Characterization of Methods to Isolate Plant Exosomes and Whole-leaf Vesicles
+      - title: "Characterization of Methods to Isolate Plant Exosomes and Whole-leaf Vesicles"
         authors: Fifth Author
         conference: "The Journal of Extracellular Vesicles, 2019, Under Review"
 
