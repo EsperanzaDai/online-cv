@@ -50,14 +50,17 @@ education:
       time: 09/2014 - 07/2019
 
 experiences:
-    - role: Volunteer Research Assistant
+    - role: Data Analyst
       time: 06/2019 - Present
       company: Baylor College of Medicine, Houston, TX
       details: | 
           Transposable Element Expression Pattern Analysis
 
-          - Performing normalization and batch corrections on quantified transposable element data 
-          - Using t-SNE and PCA methods to visualize potential transposable element differential expressions
+          - Manipulating data from databases for transposable element abundance calculation 
+          - Using data visualization techniques to show transposable element expressions patterns
+          - Using shell scripting and servers for large datasets processing  
+          - Learning and Adapting to over five new tools and two platforms within a week
+          - Managing relevant repositories on GitHub
 
     - role: Research Assistant 
       time: 06/2018 - 06/2019
