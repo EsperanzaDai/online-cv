@@ -53,9 +53,9 @@ experiences:
     - role: Data Analyst
       time: 06/2019 - Present
       company: Baylor College of Medicine, Houston, TX
-      details: | 
+      details: |
           Transposable Element Expression Pattern Analysis
-
+          
           - Manipulating data from databases for transposable element abundance calculation 
           - Using data visualization techniques to show transposable element expressions patterns
           - Using shell scripting and servers for large datasets processing  
@@ -132,6 +132,3 @@ skills:
         
       - name: SAS
         level: 75%
-        
-
-
