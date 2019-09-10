@@ -125,12 +125,13 @@ skills:
         level: 95%
 
       - name: Python
-        level: 80%
+        level: 85%
 
       - name: SQL
         level: 80%
         
       - name: SAS
         level: 75%
+        
 
 
