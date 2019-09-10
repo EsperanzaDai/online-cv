@@ -107,7 +107,7 @@ publications:
     papers:
       - title: Fungal Resistance of <em>Arabidopsis thaliana</em> Rosette Cores
         authors: First Author
-        conference: "Planta, 2019, Under Review"
+        conference: "Planta, 2019, Accepted"
 
       - title: "Characterization of Methods to Isolate Plant Exosomes and Whole-leaf Vesicles"
         authors: Fifth Author
@@ -127,8 +127,10 @@ skills:
       - name: Python
         level: 80%
 
+      - name: SQL
+        level: 80%
+        
       - name: SAS
         level: 75%
 
-      - name: SQL
-        level: 60%
+
